@@ -24,13 +24,6 @@
   color: #161616;
   font-weight: 700;
   padding: .9rem 0;
-  
-  position: relative;
-  background: url("../img/bg-masthead.jpg");
-  width: 170px;
-  left: 15px;
-  background-size: contain;
-  
 }
 
 #mainNav .navbar-nav .nav-item:hover {
