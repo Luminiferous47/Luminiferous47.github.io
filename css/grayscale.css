@@ -146,15 +146,15 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #0f73bd;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #461d96;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #461d96;
   color: white;
 }
 
